@@ -1,5 +1,5 @@
 function spikeTrain = binario(MUPulses,totalDur)
-
+%%Binarise motor unit firings
 spikeTrain=zeros(length(MUPulses),totalDur);
 
 for mu=1:length(MUPulses)
