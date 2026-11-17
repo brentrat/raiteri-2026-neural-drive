@@ -1,3 +1,4 @@
+% Code with intramuscular coherence analysis
 clear; close all
 
 % Input
