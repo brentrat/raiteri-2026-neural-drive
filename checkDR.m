@@ -1,3 +1,4 @@
+% Code to analyse the raw MUedit decompositions
 close all
 %clear
 
