@@ -1,3 +1,4 @@
+% Code to analyse the raw DEMUSE decompositions
 clear; close all
 
 % Input
